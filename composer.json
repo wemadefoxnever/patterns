@@ -1,0 +1,18 @@
+{
+	"name": "wemadefoxnever/patterns",
+	"type": "yii2-extension",
+	"authors": [
+		{
+			"name": "Nikolay Kobets",
+			"email": "wemadefoxnever@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=7.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Wemadefoxnever\\Patterns\\": ""
+		}
+	}
+}
